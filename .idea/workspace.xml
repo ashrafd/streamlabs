@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="spring-helloworld:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d987fa1a-7479-41dc-958d-0f16fb56548a" name="Default" comment="te">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/spring_helloworld_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_helloworld_war_exploded.xml" />
+    <list default="true" id="d987fa1a-7479-41dc-958d-0f16fb56548a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/spring-helloworld-1.0-SNAPSHOT/WEB-INF/lib/spring-helloworld-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/spring-helloworld-1.0-SNAPSHOT/WEB-INF/lib/spring-helloworld-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -500,7 +504,7 @@
       <option name="presentableId" value="Default" />
       <updated>1500561804992</updated>
       <workItem from="1500561806297" duration="267000" />
-      <workItem from="1500562086569" duration="384000" />
+      <workItem from="1500562086569" duration="1199000" />
     </task>
     <task id="LOCAL-00001" summary="te">
       <created>1500562278505</created>
@@ -509,11 +513,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500562278505</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed">
+      <created>1500562486360</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1500562486360</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="651000" />
+    <option name="totallyTimeSpent" value="1466000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -561,7 +572,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="te" />
-    <option name="LAST_COMMIT_MESSAGE" value="te" />
+    <MESSAGE value="fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
